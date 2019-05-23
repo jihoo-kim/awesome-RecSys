@@ -1,7 +1,14 @@
 # awesome-RecSys
 A curated list of awesome Recommender System
 
-## 1. awesome GitHub Repositories
+## 0. Books
+* [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu C. Aggarwal)
+* [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) (2015, Francesco Ricci)
+* [Recommender Systems Handbook 1st Edition](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf) (2011, Francesco Ricci)
+* [Recommender Systems An Introduction](https://github.com/singmiya/recsys/raw/master/Recommender%20Systems%20An%20Introduction.pdf) (2011, Dietmar Jannach) [slides](http://www.recommenderbook.net/teaching-material/slides)
+
+
+## 1. GitHub Repositories
 ### 1-1. All
 * [List_of_Recommender_Systems](https://github.com/grahamjenson/list_of_recommender_systems) (Software, Open Source, Academic, Benchmarking, Applications, Books)
 * [Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) (Papers, Blogs, Worshops, Tutorials, Software)
