@@ -81,7 +81,7 @@ A curated list of awesome Recommender System
 * [Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf) (2005, Gediminas Adomavicius)
 * [Evaluating collaborative filtering recommender systems](https://grouplens.org/site-content/uploads/evaluating-TOIS-20041.pdf) (2004, Jonatan L. Herlocker)
 * [Amazon.com Recommendations: Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) (2003, Greg Linden)
-* [Content-boosted collaborative filtering for improved recommendations](https://www.cs.utexas.edu/~ml/papers/cbcf-aaai-02.pdf)
+* [Content-boosted collaborative filtering for improved recommendations](https://www.cs.utexas.edu/~ml/papers/cbcf-aaai-02.pdf) (2002, Prem Melville)
 * [Item-based collaborative filtering recommendation algorithms](http://www.ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf) (2001, Badrul Sarwar)
 * [Explaining collaborative filtering recommendations](https://grouplens.org/site-content/uploads/explain-CSCW-20001.pdf) (2000, Jonatan L. Herlocker)
 * [An algorithmic framework for performing collaborative filtering](http://files.grouplens.org/papers/algs.pdf) (1999, Jonathan L. Herlocker)
