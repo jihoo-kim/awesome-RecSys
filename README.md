@@ -26,6 +26,34 @@ A curated list of awesome Recommender System
 * [WSDM](http://www.wsdm-conference.org/) (ACM International Conference on Web Search and Data Mining)
 * [WWW](https://www.iw3c2.org/) (International World Wide Web Conferences)
 
+## Researchers
+* [George Karypis](http://glaros.dtc.umn.edu/gkhome/index.php) (University of Minnesota)
+* [Joseph A. Konstan](http://konstan.umn.edu/) (University of Minnesota)
+* [Philip S. Yu](https://www.cs.uic.edu/PSYu) (University of Illinons at Chicago)
+* [Charu Aggarwal](http://www.charuaggarwal.net/) (IBM T. J. Watson Research Center)
+* [Martin Ester](http://www.sfu.ca/computing/people/faculty/martinester/people.html) (Simon Fraser University)
+* [Paul Resnick](http://presnick.people.si.umich.edu/) (University of Michigan)
+* [Peter Brusilovsky](http://www.pitt.edu/~peterb/) (University of Pittsburgh)
+* [Bamshad Mobasher](http://facweb.cs.depaul.edu/mobasher/) (DePaul University)
+* [Alexander Tuzhilin](http://people.stern.nyu.edu/atuzhili/) (New York University)
+* [Yehuda Koren](https://www.linkedin.com/in/yehuda-koren-8566147/) (Google)
+* [Barry Smyth](https://barrysmyth.me/) (University College Dublin)
+* [Lior Rokach](http://www.ise.bgu.ac.il/faculty/liorr/) (Ben-Gurion University of the Negev)
+* [Loren Terveen](https://www-users.cs.umn.edu/~terveen/) (University of Minnesota)
+* [Chris Volinsky](http://stats.research.att.com/volinsky/) (AT&T Labs)
+* [Ed H. Chi](https://sites.google.com/view/edchi/) (Google AI)
+* [Laks V.S. Lakshmanan](https://www.cs.ubc.ca/~laks/) (University of British Columbia)
+* [Badrul Sarwar](https://www.linkedin.com/in/bmsarwar/) (LinkedIn)
+* [Francesco Ricci](http://www.inf.unibz.it/~ricci/) (Free University of Bozen-Bolzano)
+* [Robin Burke](http://www.that-recsys-lab.net/) (University of Colorado, Boulder)
+* [Brent Smith](https://www.linkedin.com/in/brent-smith-2a1b8/) (Amazon)
+* [Greg Linden](http://glinden.blogspot.com/) (Amazon, Microsoft)
+* [Hao Ma](https://www.haoma.io/) (Facebook AI)
+* [Giovanni Semeraro](http://www.di.uniba.it/~swap/index.php?n=Membri.Semeraro) (University of Bari Aldo Moro)
+* [Dietmar Jannach](https://www.aau.at/en/ainf/research-groups/infsys/team/dietmar-jannach/) (University of Klagenfurt)
+
+
+
 
 ## GitHub Repositories
 * [List_of_Recommender_Systems](https://github.com/grahamjenson/list_of_recommender_systems) (Software, Open Source, Academic, Benchmarking, Applications, Books)
