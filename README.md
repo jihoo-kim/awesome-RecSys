@@ -52,6 +52,7 @@ A curated list of awesome Recommender System
 * [Giovanni Semeraro](http://www.di.uniba.it/~swap/index.php?n=Membri.Semeraro) (University of Bari Aldo Moro)
 * [Dietmar Jannach](https://www.aau.at/en/ainf/research-groups/infsys/team/dietmar-jannach/) (University of Klagenfurt)
 
+## Papers
 
 
 
