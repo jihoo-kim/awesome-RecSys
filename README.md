@@ -1,5 +1,5 @@
 # awesome-RecSys
-A curated list of awesome Recommender System - designed by Jihoo Kim
+A curated list of awesome Recommender System - designed by **Jihoo Kim**
 
 ### Table of Contents
 1. Books
