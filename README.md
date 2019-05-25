@@ -1,13 +1,20 @@
 # awesome-RecSys
-A curated list of awesome Recommender System
+A curated list of awesome Recommender System - designed by Jihoo Kim
 
-## Books
+### Table of Contents
+1. Books
+2. Conferences
+3. Researchers
+4. Papers
+5. GitHub Repositories
+
+## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
 * [Recommender Systems Handbook 2nd Edition](https://edyaaleh.files.wordpress.com/2016/02/recommendersystemshandbook.pdf) (2015, Francesco Ricci)
 * [Recommender Systems Handbook 1st Edition](https://www.cse.iitk.ac.in/users/nsrivast/HCC/Recommender_systems_handbook.pdf) (2011, Francesco Ricci)
 * [Recommender Systems An Introduction](https://github.com/singmiya/recsys/raw/master/Recommender%20Systems%20An%20Introduction.pdf) (2011, Dietmar Jannach) [slides](http://www.recommenderbook.net/teaching-material/slides)
 
-## Conferences
+## 2. Conferences
 * [AAAI](https://www.aaai.org/) (AAAI Conference on Artificial Intelligence)
 * [CIKM](http://www.cikmconference.org/) (ACM International Conference on Information and Knowledge Management)
 * [CSCW](http://cscw.acm.org) (ACM Conference on Computer-Supported Cooperative Work & Social Computing)
@@ -26,7 +33,7 @@ A curated list of awesome Recommender System
 * [WSDM](http://www.wsdm-conference.org/) (ACM International Conference on Web Search and Data Mining)
 * [WWW](https://www.iw3c2.org/) (International World Wide Web Conferences)
 
-## Researchers
+## 3. Researchers
 * [George Karypis](http://glaros.dtc.umn.edu/gkhome/index.php) (University of Minnesota)
 * [Joseph A. Konstan](http://konstan.umn.edu/) (University of Minnesota)
 * [Philip S. Yu](https://www.cs.uic.edu/PSYu) (University of Illinons at Chicago)
@@ -52,7 +59,7 @@ A curated list of awesome Recommender System
 * [Giovanni Semeraro](http://www.di.uniba.it/~swap/index.php?n=Membri.Semeraro) (University of Bari Aldo Moro)
 * [Dietmar Jannach](https://www.aau.at/en/ainf/research-groups/infsys/team/dietmar-jannach/) (University of Klagenfurt)
 
-## Papers
+## 4. Papers
 * [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192) (2018, Yongfeng Zhang)
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf) (2018, Shuai Zhang)
 * [Collaborative Variational Autoencoder for Recommender Systems](http://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf) (2017, Xiaopeng Li)
@@ -92,7 +99,7 @@ A curated list of awesome Recommender System
 
 
 
-## GitHub Repositories
+## 5. GitHub Repositories
 * [List_of_Recommender_Systems](https://github.com/grahamjenson/list_of_recommender_systems) (Software, Open Source, Academic, Benchmarking, Applications, Books)
 * [Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems) (Papers, Blogs, Worshops, Tutorials, Software)
 * [RecommenderSystem-Paper](https://github.com/daicoolb/RecommenderSystem-Paper) (Papers, Tools, Frameworks)
