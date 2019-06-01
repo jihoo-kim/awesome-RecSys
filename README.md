@@ -107,6 +107,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [awesome-RecSys-papers](https://github.com/YuyangZhangFTD/awesome-RecSys-papers) (Papers)
 * [DeepRec](https://github.com/cheungdaven/DeepRec) (Tensorflow Codes)
 * [RecQ](https://github.com/Coder-Yu/RecQ) (Tensorflow Codes)
+* [NeuRec](https://github.com/wubinzzu/NeuRec) (Tensorflow Codes)
 * [Surprise](https://github.com/NicolasHug/Surprise) (Python Library)
 * [LightFM](https://github.com/lyst/lightfm) (Python Library)
 * [Spotlight](https://github.com/maciejkula/spotlight) (Python Library)
