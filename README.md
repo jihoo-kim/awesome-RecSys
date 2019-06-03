@@ -7,6 +7,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 3. Researchers
 4. Papers
 5. GitHub Repositories
+6. Useful Sites
 
 ## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
