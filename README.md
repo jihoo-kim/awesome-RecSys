@@ -116,7 +116,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [CaseRecommender](https://github.com/caserec/CaseRecommender) (Python Library)
 * [recommenders](https://github.com/microsoft/recommenders) (Jupyter Notebook Tutorial)
 
-
-
-
-
+## 6. Useful Sites
+* [WikiCFP](http://www.wikicfp.com/cfp/call?conference=recommender%20systems) (Call For Papers of Conferences, Workshops and Journals - Recommender System)
+* [Guide2Research](http://www.guide2research.com/topconf/) (Top Computer Science Conferences)
+* [PapersWithCode](https://paperswithcode.com/task/recommendation-systems) (Papers with Code - Recommender System)
