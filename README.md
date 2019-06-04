@@ -118,7 +118,8 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [recommenders](https://github.com/microsoft/recommenders) (Jupyter Notebook Tutorial)
 
 ## 6. Useful Sites
-* [WikiCFP](http://www.wikicfp.com/cfp/call?conference=recommender%20systems) (Call For Papers of Conferences, Workshops and Journals - Recommender System)
-* [Guide2Research](http://www.guide2research.com/topconf/) (Top Computer Science Conferences)
-* [PapersWithCode](https://paperswithcode.com/task/recommendation-systems) (Papers with Code - Recommender System)
-* [Coursera](https://www.coursera.org/specializations/recommender-systems) (University of Minnesota - Recommender System)
+* [WikiCFP - Recommender System](http://www.wikicfp.com/cfp/call?conference=recommender%20systems) (Call For Papers of Conferences, Workshops and Journals - Recommender System)
+* [Guide2Research - Top CS Conference](http://www.guide2research.com/topconf/) (Top Computer Science Conferences)
+* [PapersWithCode - Recommender System](https://paperswithcode.com/task/recommendation-systems) (Papers with Code - Recommender System)
+* [Coursera - Recommender System](https://www.coursera.org/specializations/recommender-systems) (University of Minnesota)
+* [YouTube - ACM RecSys](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured)
