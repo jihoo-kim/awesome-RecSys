@@ -121,5 +121,6 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [WikiCFP - Recommender System](http://www.wikicfp.com/cfp/call?conference=recommender%20systems) (Call For Papers of Conferences, Workshops and Journals - Recommender System)
 * [Guide2Research - Top CS Conference](http://www.guide2research.com/topconf/) (Top Computer Science Conferences)
 * [PapersWithCode - Recommender System](https://paperswithcode.com/task/recommendation-systems) (Papers with Code - Recommender System)
-* [Coursera - Recommender System](https://www.coursera.org/specializations/recommender-systems) (University of Minnesota)
-* [YouTube - ACM RecSys](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured)
+* [Coursera - Recommender System](https://www.coursera.org/specializations/recommender-systems) (University of Minnesota - Joseph A. Konstan)
+* [YouTube - ACM RecSys](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured) (RecSys Paper Presentation Videos)
+* [YouTube - Building Recommender System with Machine Learning and AI](https://www.youtube.com/playlist?list=PLk9tco_9NSqfkr2Z0VdntKqufR5uDOezz) (Youtube SEO)
