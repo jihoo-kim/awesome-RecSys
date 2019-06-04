@@ -2,13 +2,13 @@
 A curated list of awesome Recommender System - designed by **Jihoo Kim**
 
 ### Table of Contents
-1. Books
-2. Conferences
-3. Researchers
-4. Papers
-5. GitHub Repositories
-6. Useful Sites
-7. Youtube Videos
+1. [Books](https://github.com/jihoo-kim/awesome-RecSys#1-books)
+2. [Conferences](https://github.com/jihoo-kim/awesome-RecSys#2-conferences)
+3. [Researchers](https://github.com/jihoo-kim/awesome-RecSys#3-researchers)
+4. [Papers](https://github.com/jihoo-kim/awesome-RecSys#4-papers)
+5. [GitHub Repositories](https://github.com/jihoo-kim/awesome-RecSys#5-github-repositories)
+6. [Useful Sites](https://github.com/jihoo-kim/awesome-RecSys#6-useful-sites)
+7. [Youtube Videos](https://github.com/jihoo-kim/awesome-RecSys#7-youtube-videos)
 
 ## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
