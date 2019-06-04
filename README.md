@@ -122,5 +122,8 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [Guide2Research - Top CS Conference](http://www.guide2research.com/topconf/) (Top Computer Science Conferences)
 * [PapersWithCode - Recommender System](https://paperswithcode.com/task/recommendation-systems) (Papers with Code - Recommender System)
 * [Coursera - Recommender System](https://www.coursera.org/specializations/recommender-systems) (University of Minnesota - Joseph A. Konstan)
-* [YouTube - ACM RecSys](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured) (RecSys Paper Presentation Videos)
+
+## 7. Youtube Videos
+* [YouTube - RecSys Paper Presentation Videos](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured) (ACM RecSys)
 * [YouTube - Building Recommender System with Machine Learning and AI](https://www.youtube.com/playlist?list=PLk9tco_9NSqfkr2Z0VdntKqufR5uDOezz) (Youtube SEO)
+* [YouTube - Text Retrieval and Search Engines | FULL COURSE | UIUC)](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO) (Lecture 38 ~ Lecture 42)
