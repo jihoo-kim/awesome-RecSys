@@ -127,6 +127,6 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 ## 7. Youtube Videos
 * [RecSys Paper Presentation Videos](https://www.youtube.com/channel/UC2nEn-yNA1BtdDNWziphPGA/featured) (ACM RecSys)
 * [Building Recommender System with Machine Learning and AI](https://www.youtube.com/playlist?list=PLk9tco_9NSqfkr2Z0VdntKqufR5uDOezz) (Youtube SEO)
-* [Machine Learning | FULL COURSE | Andrew Ng | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (Lecture 16.1 ~ Lecture 16.6)
-* [Mining Massive Datasets | FULL COURSE | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) (Lecture 41 ~ Lecture 45)
-* [Text Retrieval and Search Engines | FULL COURSE | UIUC](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO) (Lecture 38 ~ Lecture 42)
+* [Machine Learning - FULL COURSE | Andrew Ng | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (Lecture 16.1 ~ Lecture 16.6)
+* [Mining Massive Datasets - FULL COURSE | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) (Lecture 41 ~ Lecture 45)
+* [Text Retrieval and Search Engines - FULL COURSE | UIUC](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO) (Lecture 38 ~ Lecture 42)
