@@ -130,4 +130,5 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [Machine Learning - FULL COURSE | Andrew Ng | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) (Lecture 16.1 ~ Lecture 16.6)
 * [Mining Massive Datasets - FULL COURSE | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) (Lecture 41 ~ Lecture 45)
 * [Text Retrieval and Search Engines - FULL COURSE | UIUC](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO) (Lecture 38 ~ Lecture 42)
-* [Recommendation Systems - Learn Python for Data Science #3](https://www.youtube.com/watch?v=9gBC9R-msAk) (Siraj Raval) 
+* [Recommendation Systems - Learn Python for Data Science #3](https://www.youtube.com/watch?v=9gBC9R-msAk) (Siraj Raval)
+* [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs) (Luis Serrano)
