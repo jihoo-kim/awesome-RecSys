@@ -137,3 +137,4 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 ## 8. SlideShare PPT
 * [Recommender system introduction](https://www.slideshare.net/xlvector/recommender-system-introduction-12551956) (Liang Xiang)
 * [Recommender system algorithm and architecture](https://www.slideshare.net/xlvector/recommender-system-algorithm-and-architecture-13098396) (Liang Xiang)
+* [How to build a recommender system?](https://www.slideshare.net/blueace/how-to-build-a-recommender-system-presentation) (Coen Stevens)
