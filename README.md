@@ -9,6 +9,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 5. [GitHub Repositories](https://github.com/jihoo-kim/awesome-RecSys#5-github-repositories)
 6. [Useful Sites](https://github.com/jihoo-kim/awesome-RecSys#6-useful-sites)
 7. [Youtube Videos](https://github.com/jihoo-kim/awesome-RecSys#7-youtube-videos)
+8. [SlideShare PPT](https://github.com/jihoo-kim/awesome-RecSys#8-slideshare-ppt)
 
 ## 1. Books
 * [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf) (2016, Charu Aggarwal)
@@ -133,6 +134,6 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [Recommendation Systems - Learn Python for Data Science #3](https://www.youtube.com/watch?v=9gBC9R-msAk) (Siraj Raval)
 * [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs) (Luis Serrano)
 
-## 8. SliderShare PPT
+## 8. SlideShare PPT
 * [Recommender system introduction](https://www.slideshare.net/xlvector/recommender-system-introduction-12551956) (Liang Xiang)
 * [Recommender system algorithm and architecture](https://www.slideshare.net/xlvector/recommender-system-algorithm-and-architecture-13098396) (Liang Xiang)
