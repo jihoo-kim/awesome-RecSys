@@ -106,6 +106,7 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [RecommenderSystem-Paper](https://github.com/daicoolb/RecommenderSystem-Paper) (Papers, Tools, Frameworks)
 * [RSPapers](https://github.com/hongleizhang/RSPapers) (Papers)
 * [awesome-RecSys-papers](https://github.com/YuyangZhangFTD/awesome-RecSys-papers) (Papers)
+* [Awesome-RecSys-Paper](https://github.com/familyld/Awesome-RecSys-Paper) (Papers)
 * [DeepRec](https://github.com/cheungdaven/DeepRec) (Tensorflow Codes)
 * [RecQ](https://github.com/Coder-Yu/RecQ) (TensorFlow Codes)
 * [NeuRec](https://github.com/wubinzzu/NeuRec) (TensorFlow Codes)
