@@ -1,7 +1,7 @@
 # awesome-RecSys
 A curated list of awesome Recommender System - designed by **Jihoo Kim**
 
-![RS](https://user-images.githubusercontent.com/50820635/85164492-65760900-b29f-11ea-824a-8c15d752d8b1.jpg)
+![RS](https://user-images.githubusercontent.com/50820635/85274861-7e0e3b00-b4ba-11ea-8cd3-2690ec55a67a.jpg)
 
 ### Table of Contents
 1. [Books](https://github.com/jihoo-kim/awesome-RecSys#1-books)
