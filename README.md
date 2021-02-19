@@ -135,8 +135,10 @@ A curated list of awesome Recommender System - designed by **Jihoo Kim**
 * [Text Retrieval and Search Engines - FULL COURSE | UIUC](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Jk8mpFc_RPzn2obhotfDO) (Lecture 38 ~ Lecture 42)
 * [Recommendation Systems - Learn Python for Data Science #3](https://www.youtube.com/watch?v=9gBC9R-msAk) (Siraj Raval)
 * [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs) (Luis Serrano)
+* [Machine Learning for Recommender Systems](https://www.youtube.com/watch?v=xBMGr08fowA&t=3m58s) (James Kirk Spotify)
 
 ## 8. SlideShare PPT
 * [Recommender system introduction](https://www.slideshare.net/xlvector/recommender-system-introduction-12551956) (Liang Xiang)
 * [Recommender system algorithm and architecture](https://www.slideshare.net/xlvector/recommender-system-algorithm-and-architecture-13098396) (Liang Xiang)
 * [How to build a recommender system?](https://www.slideshare.net/blueace/how-to-build-a-recommender-system-presentation) (Coen Stevens)
+* [Architecting recommender systems](https://www.slideshare.net/JamesKirk58/boston-ml-architecting-recommender-systems) (James Kirk Spotify)
